@@ -2,7 +2,7 @@
 
 *Eru's Twerk it up!* is a small fangame of the vtuber [Eru Nabura](https://twitter.com/EruNabura), the character design and the illustration belong to her. The game code (everything in the /src/ folder) is released under MIT License. Other assets used are specifed and credited in the CREDITS.txt file.
 
-Be sure to check out the live version at [Eru's Twerk it up!](https://sleepless-nt.github.io/EruTwerk/).
+Be sure to check out the live version at [Eru's Twerk it up!](https://sleepless-nts.github.io/EruTwerk/).
 
 ## Adding songs to the game
 If you wish to add songs to the game you can do so in the /src/songs.js file by specifying certain information 
