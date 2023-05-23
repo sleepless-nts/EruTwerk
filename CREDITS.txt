@@ -1,0 +1,29 @@
+GAME
+
+Character design and illustration
+    Eru Nabura https://twitter.com/EruNabura
+
+Game programmer
+    Sleepless Nights
+
+TRACKS USED
+
+Aidory by Yoasobi (excerpt)
+    A small excerpt from Aidoru by Yoasobi
+    copyright belongs to him
+
+2Neons by Dova-Syndrome
+
+    https://dova-s.jp/EN/bgm/DL11445.html
+    Composer information - https://dova-s.jp/EN/_contents/author/profile081.html
+    License - https://dova-s.jp/EN/_contents/license/
+
+Kokoro odoru cover by Yuu
+    https://www.youtube.com/@yu64l
+    https://twitter.com/mameruiyuu/
+
+OTHER
+
+Flag icons by https://flagicons.lipis.dev/
+Brand icons by https://fontawesome.com/
+Underlying library https://p5js.org/
